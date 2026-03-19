@@ -1,6 +1,6 @@
 # Functional Programming Question Bank
 
-This repository curates a mixed Haskell and Python practice folder into a structured question bank focused on functional programming ideas. The structure was derived from the actual codebase: inventory and sales processing, recursive patterns, and validation-driven analytics.
+This repository curates a mixed Haskell and Python practice folder into a structured question bank focused on functional programming ideas. The structure was derived from the actual codebase and now covers inventory and sales processing, recursive patterns, validation-driven analytics, fold/lambda foundations, and comprehension-driven generators.
 
 ## Repository usage
 
@@ -33,6 +33,13 @@ This repository curates a mixed Haskell and Python practice folder into a struct
 - BMI filtering pipelines
 - Student mark scaling
 - Product review validation
+- Fold-based counting and reversing
+- Implementing `map` with `foldl` and `foldr`
+- Employee performance classification
+- Sensor-data cleaning and transformation
+- City-population filtering
+- Prime-sum pair generation
+- Pascal triangle construction
 
 ## Running the questions
 

@@ -11,6 +11,11 @@ python .\questions\inventory-and-sales\Q06_python_stock_trend_pipeline.py
 python .\questions\recursive-patterns\Q10_python_organization_budget.py
 python .\questions\validation-and-analytics\Q11_python_bmi_pipeline.py
 python .\questions\validation-and-analytics\Q13_python_product_review_filter.py
+python .\questions\comprehensions-and-generators\Q17_python_employee_performance_classification.py
+python .\questions\comprehensions-and-generators\Q18_python_sensor_data_transform.py
+python .\questions\comprehensions-and-generators\Q19_python_city_population_filter.py
+python .\questions\comprehensions-and-generators\Q20_python_prime_sum_pairs.py
+python .\questions\comprehensions-and-generators\Q21_python_pascal_triangle.py
 ```
 
 ## Haskell commands run
@@ -23,6 +28,9 @@ ghc -fno-code .\questions\recursive-patterns\Q07_haskell_magic_growth.hs
 ghc -fno-code .\questions\recursive-patterns\Q08_haskell_polynomial_derivative.hs
 ghc -fno-code .\questions\recursive-patterns\Q09_haskell_plateau_grouping.hs
 ghc -fno-code .\questions\validation-and-analytics\Q12_haskell_student_mark_scaling.hs
+ghc -fno-code .\questions\folds-and-lambda-foundations\Q14_haskell_count_even_with_fold.hs
+ghc -fno-code .\questions\folds-and-lambda-foundations\Q15_haskell_reverse_with_fold.hs
+ghc -fno-code .\questions\folds-and-lambda-foundations\Q16_haskell_map_via_fold.hs
 ```
 
 ## Outcome

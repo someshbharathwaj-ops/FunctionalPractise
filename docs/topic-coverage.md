@@ -34,3 +34,25 @@ Primary concepts:
 - derived metrics such as BMI
 - list alignment and mark transformation
 - validation before analysis
+
+## Folds And Lambda Foundations
+
+This group emerged from the Haskell practice files where the core learning goal was not a domain problem but the mechanics of lambdas, folds, and accumulator-based thinking. These questions make the bank more useful for foundation-level practice before students move into larger contextual exercises.
+
+Primary concepts:
+
+- counting with folds
+- reversing via accumulator growth
+- implementing higher-order utilities from first principles
+- comparing `foldl` and `foldr`
+
+## Comprehensions And Generators
+
+This Python cluster captures short but important functional-style exercises built around list comprehensions, tuple generation, and compact transformation pipelines. They add breadth to the question bank without drifting away from the original course material.
+
+Primary concepts:
+
+- comprehension-based filtering
+- generator-style pair construction
+- map-based classification
+- recursive sequence generation

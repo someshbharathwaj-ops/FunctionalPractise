@@ -27,3 +27,21 @@
 | Q11 | `questions/validation-and-analytics/Q11_python_bmi_pipeline.py` | Python | validation pipeline, reduce | Intermediate |
 | Q12 | `questions/validation-and-analytics/Q12_haskell_student_mark_scaling.hs` | Haskell | zip, filter, map | Beginner |
 | Q13 | `questions/validation-and-analytics/Q13_python_product_review_filter.py` | Python | predicate composition | Beginner |
+
+## Folds And Lambda Foundations
+
+| No. | File | Language | Concept | Difficulty |
+| --- | --- | --- | --- | --- |
+| Q14 | `questions/folds-and-lambda-foundations/Q14_haskell_count_even_with_fold.hs` | Haskell | fold-based counting | Beginner |
+| Q15 | `questions/folds-and-lambda-foundations/Q15_haskell_reverse_with_fold.hs` | Haskell | reversing with folds | Beginner |
+| Q16 | `questions/folds-and-lambda-foundations/Q16_haskell_map_via_fold.hs` | Haskell | higher-order mapping with folds | Intermediate |
+
+## Comprehensions And Generators
+
+| No. | File | Language | Concept | Difficulty |
+| --- | --- | --- | --- | --- |
+| Q17 | `questions/comprehensions-and-generators/Q17_python_employee_performance_classification.py` | Python | map-based classification | Beginner |
+| Q18 | `questions/comprehensions-and-generators/Q18_python_sensor_data_transform.py` | Python | filter-map pipelines | Beginner |
+| Q19 | `questions/comprehensions-and-generators/Q19_python_city_population_filter.py` | Python | tuple filtering | Beginner |
+| Q20 | `questions/comprehensions-and-generators/Q20_python_prime_sum_pairs.py` | Python | comprehension-based generation | Intermediate |
+| Q21 | `questions/comprehensions-and-generators/Q21_python_pascal_triangle.py` | Python | recursive list construction | Intermediate |
