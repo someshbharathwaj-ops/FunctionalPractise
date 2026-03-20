@@ -56,3 +56,18 @@ Primary concepts:
 - generator-style pair construction
 - map-based classification
 - recursive sequence generation
+
+## String And Number Patterns
+
+This cluster grew out of the Python practice utilities that focused on recursive strings, text
+normalization, configurable reductions, and lightweight number-theory checks. These problems are
+small individually, but together they give the question bank a stronger foundation for early-stage
+functional decomposition.
+
+Primary concepts:
+
+- recursive string processing
+- reduction with higher-order functions
+- order-preserving transformation
+- normalization before comparison
+- simple numeric predicates
