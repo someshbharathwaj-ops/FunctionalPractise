@@ -45,3 +45,31 @@
 | Q19 | `questions/comprehensions-and-generators/Q19_python_city_population_filter.py` | Python | tuple filtering | Beginner |
 | Q20 | `questions/comprehensions-and-generators/Q20_python_prime_sum_pairs.py` | Python | comprehension-based generation | Intermediate |
 | Q21 | `questions/comprehensions-and-generators/Q21_python_pascal_triangle.py` | Python | recursive list construction | Intermediate |
+
+## Expanded Folds And Lambda Foundations
+
+| No. | File | Language | Concept | Difficulty |
+| --- | --- | --- | --- | --- |
+| Q22 | `questions/folds-and-lambda-foundations/Q22_haskell_add_two_numbers_with_lambda.hs` | Haskell | basic lambda addition | Beginner |
+| Q23 | `questions/folds-and-lambda-foundations/Q23_haskell_square_with_lambda.hs` | Haskell | lambda-based squaring | Beginner |
+| Q24 | `questions/folds-and-lambda-foundations/Q24_haskell_even_odd_label.hs` | Haskell | conditional lambdas | Beginner |
+| Q25 | `questions/folds-and-lambda-foundations/Q25_haskell_absolute_value_lambda.hs` | Haskell | lambda-based normalization | Beginner |
+| Q26 | `questions/folds-and-lambda-foundations/Q26_haskell_maximum_of_two_lambda.hs` | Haskell | conditional selection | Beginner |
+| Q27 | `questions/folds-and-lambda-foundations/Q27_haskell_increment_list_with_map.hs` | Haskell | mapping increments | Beginner |
+| Q28 | `questions/folds-and-lambda-foundations/Q28_haskell_square_list_with_map.hs` | Haskell | mapping squares | Beginner |
+| Q29 | `questions/folds-and-lambda-foundations/Q29_haskell_filter_even_numbers.hs` | Haskell | predicate filtering | Beginner |
+| Q30 | `questions/folds-and-lambda-foundations/Q30_haskell_sum_list_with_fold.hs` | Haskell | fold-based summation | Beginner |
+| Q31 | `questions/folds-and-lambda-foundations/Q31_haskell_list_length_with_fold.hs` | Haskell | fold-based counting | Beginner |
+
+## String And Number Patterns
+
+| No. | File | Language | Concept | Difficulty |
+| --- | --- | --- | --- | --- |
+| Q32 | `questions/string-and-number-patterns/Q32_python_reduce_operations.py` | Python | configurable reduction | Beginner |
+| Q33 | `questions/string-and-number-patterns/Q33_python_reverse_string_recursively.py` | Python | recursive string reversal | Beginner |
+| Q34 | `questions/string-and-number-patterns/Q34_python_count_upper_and_lowercase.py` | Python | character counting | Beginner |
+| Q35 | `questions/string-and-number-patterns/Q35_python_unique_elements_preserve_order.py` | Python | reduction-based deduplication | Intermediate |
+| Q36 | `questions/string-and-number-patterns/Q36_python_classify_numbers_by_properties.py` | Python | multi-predicate filtering | Beginner |
+| Q37 | `questions/string-and-number-patterns/Q37_python_perfect_number_check.py` | Python | perfect-number testing | Intermediate |
+| Q38 | `questions/string-and-number-patterns/Q38_python_palindrome_phrase_check.py` | Python | normalized palindrome detection | Beginner |
+| Q39 | `questions/string-and-number-patterns/Q39_python_pangram_check.py` | Python | alphabet coverage | Beginner |
